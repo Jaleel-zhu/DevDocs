@@ -1,4 +1,7 @@
+
 # DevDocs by CyberAGI 🚀
+> [!WARNING]
+> 📌 **DevDocs Status**: Not publicly maintained. Enhanced internal version at CyberAGI — public release coming soon. If you have any questions please reach out to info@cyberagi.ai
 
 <div align="center">
   <img src="assets/image.png" alt="DevDocs Interface" width="800">
